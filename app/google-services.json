@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588676000414",
+    "project_id": "findthenumber-15ee6",
+    "storage_bucket": "findthenumber-15ee6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588676000414:android:f7f621285ef067d837298f",
+        "android_client_info": {
+          "package_name": "com.example.findthenumber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588676000414-7h6qv5ndbncnu1v6l0lvsts0th31r0rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDck-WB0dkVHFcCspvbJgK1wxmbdb8PYPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588676000414-7h6qv5ndbncnu1v6l0lvsts0th31r0rk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

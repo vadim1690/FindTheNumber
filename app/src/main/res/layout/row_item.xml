@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_margin="10dp"
+    android:background="@color/purple_500">
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/name_textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:layoutDirection="ltr"
+        android:textDirection="ltr"
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:text="Vadim Lazarevich"/>
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/caller_textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layoutDirection="ltr"
+        android:layout_margin="8dp"
+        android:textDirection="ltr"
+        android:textSize="16sp"
+        android:textColor="#CCCCCC"
+        android:text="Vadim Lazarevich"/>
+
+</androidx.appcompat.widget.LinearLayoutCompat>
